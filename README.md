@@ -1,5 +1,3 @@
-# testeProvaPOO2
-
 # Passos para iniciar o projeto Node e Typescript
 
  ## Iniciando o node
