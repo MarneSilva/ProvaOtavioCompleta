@@ -76,7 +76,7 @@ main()
     process.exit(1)
 })
 
-## Após criar as pastas e os arquivos routes, controllers, services
+## Após criar as pastas e os arquivos routes, controllers e services
 Baixar o express com os comandos:
 
 npm i express
